@@ -4,16 +4,17 @@
 Este repositorio contiene mis apuntes personales de JavaScript, organizados por niveles de dificultad y temas. El objetivo es registrar mi aprendizaje y compartirlo de forma clara mientras desarrollo una página web que mostrará estos contenidos con HTML, CSS, JavaScript y eventualmente React.
 
 ## Estructura del Repositorio
+```
 apuntesJavaScript/
-├── basico/
+├── A. basico/
 │ └── introduccionJavascript.js
-├── intermedio/
+├── B. intermedio/
 │ └── javascriptIntermedio.js
-├── avanzado/
+├── C. avanzado/
 │ └── javascriptAvanzado.js
-└── algoritmos/
+└── D. algoritmos/
   └── algoritmos.js
-
+```
 
 > Cada archivo contiene ejemplos comentados y explicaciones de conceptos clave.
 
@@ -55,3 +56,4 @@ Este repositorio está en constante crecimiento a medida que avanzo en mi aprend
 **Liam Romero** 
 🎓 Estudiante autodidacta de desarrollo web y programación
 🚀 [Mi perfil de GitHub](https://github.com/LiaM119)
+
