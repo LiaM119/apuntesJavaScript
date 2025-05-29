@@ -7,13 +7,14 @@ Este repositorio contiene mis apuntes personales de JavaScript, organizados por 
 ```
 apuntesJavaScript/
 ├── A. basico/
-│ └── introduccionJavascript.js
+│ └── 1. pensamientoComputacional.js
+│ └── 2. introduccionJavascript.js
 ├── B. intermedio/
-│ └── javascriptIntermedio.js
+│ └── 3. javascriptIntermedio.js
 ├── C. avanzado/
-│ └── javascriptAvanzado.js
+│ └── 4. javascriptAvanzado.js
 └── D. algoritmos/
-  └── algoritmos.js
+  └── 5. algoritmos.js
 ```
 
 > Cada archivo contiene ejemplos comentados y explicaciones de conceptos clave.
