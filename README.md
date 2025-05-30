@@ -6,15 +6,15 @@ Este repositorio contiene mis apuntes personales de JavaScript, organizados por 
 ## Estructura del Repositorio
 ```
 apuntesJavaScript/
-├── A. basico/
-│ └── 1. pensamientoComputacional.js
-│ └── 2. introduccionJavascript.js
-├── B. intermedio/
-│ └── 3. javascriptIntermedio.js
-├── C. avanzado/
-│ └── 4. javascriptAvanzado.js
-└── D. algoritmos/
-  └── 5. algoritmos.js
+├── 1basico/
+│ └── pensamientoComputacional.js
+│ └── introduccionJavascript.js
+├── 2intermedio/
+│ └── javascriptIntermedio.js
+├── 3avanzado/
+│ └── javascriptAvanzado.js
+└── 4algoritmos/
+  └── algoritmos.js
 ```
 
 > Cada archivo contiene ejemplos comentados y explicaciones de conceptos clave.
