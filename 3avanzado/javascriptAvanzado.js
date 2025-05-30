@@ -34,7 +34,7 @@ let callbacks = {
 };
 
 function sumar(a, b, callback) {
-  const resultado = a + b;
+  let resultado = a + b;
   callback(resultado);
 }
 
