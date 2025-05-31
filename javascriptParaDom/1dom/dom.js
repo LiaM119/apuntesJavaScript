@@ -37,3 +37,16 @@ for(let x of objectArray){
 }
 
 // -- -- -- DOM : Document Object Model -- -- --
+let getElementById = "El método getElementById en JavaScript se utiliza para obtener una referencia a un elemento del DOM (Document Object Model) que tiene un atributo id específico."
+
+document.getElementById('test').innerHTML = 'texto desde javascript' //Ejemplo de getElementById para html
+
+document.getElementById('test').style.color = 'red' //Ejemplo de getElementById para css
+
+const form = document.forms['form1'];
+let textt = '';
+for (let i = 0; i < form.length; i++) {
+    textt += form.elements[i].value + 'br';
+}
+
+document.getElementById('test').innerHTML = textt; 
