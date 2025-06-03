@@ -23,6 +23,12 @@ apuntes/
 │   ├── 2eventos/
 │   │   └── eventos.js
 │   │   └── index.html
+│   ├── 3manipulacionDelDom/
+│   │   └── index.html
+│   │   └── manipulacionDelDom.js
+│   │   └── style.css
+│   ├── 4cookies/
+│   │   └── cookies.js
 ```
 
 > Cada archivo contiene ejemplos comentados y explicaciones de conceptos clave.
