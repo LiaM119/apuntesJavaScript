@@ -43,6 +43,7 @@ document.getElementById('test').innerHTML = 'texto desde javascript' //Ejemplo d
 
 document.getElementById('test').style.color = 'red' //Ejemplo de getElementById para css
 
+//Ejemplo de un form desde JavaScript
 const form = document.forms['form1'];
 let textt = '';
 for (let i = 0; i < form.length; i++) {
@@ -50,3 +51,4 @@ for (let i = 0; i < form.length; i++) {
 }
 
 document.getElementById('test').innerHTML = textt; 
+

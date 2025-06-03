@@ -17,6 +17,12 @@ apuntes/
 │   └── 4algoritmos/
 │       └── algoritmos.js
 └── javascriptParaDom/
+│   ├── 1dom/
+│   │   ├── dom.js
+│   │   └── index.html
+│   ├── 2eventos/
+│   │   └── eventos.js
+│   │   └── index.html
 ```
 
 > Cada archivo contiene ejemplos comentados y explicaciones de conceptos clave.
