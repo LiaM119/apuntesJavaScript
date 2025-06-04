@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- GEOLOCATION -->
+    <h4>Esta ubicado en la siguiente ubicación:</h4>
+    <p id="ubicación"></p>
+    <button onclick="getLocation()">Ver ubicación</button>
+
+    <!-- FORM VALIDATION -->
+    <input id="number" type="number" min="50" max="100" required>
+    <button onclick="doValidation()">¿Es correcto el número?</button>
+
+    <p>Si el número es menor a 50 o mayor a 100, o nos olvidamos de ponerlo, el error   del navegador será: </p>
+    <p id="error"></p>
+
+    <!-- History API -->
+    <button onclick="goBackx2()">Atrás 2 veces</button>
+    <button onclick="goForward()">Adelante</button>
+    <button onclick="goForward()">Adelante</button>
+    <button onclick="goForwardx2()">Adelante 2 veces</button>
+
+</body>
+</html>
